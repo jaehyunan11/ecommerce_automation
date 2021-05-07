@@ -1,0 +1,75 @@
+05/06/2021 09:50:54 PM - Test_001_Login - INFO: **************** Test_001_Login ****************
+05/06/2021 09:50:54 PM - Test_001_Login - INFO: **************** Verifying Home Page Title ****************
+05/06/2021 09:50:54 PM - Test_001_Login - INFO: **** Opening URL ****
+05/06/2021 09:50:55 PM - Test_001_Login - INFO: **************** Home page title test is passed ****************
+05/06/2021 09:50:57 PM - Test_001_Login - INFO: **************** Verifying Login Test ****************
+05/06/2021 09:51:01 PM - Test_001_Login - INFO: **************** Login test is passed ****************
+05/06/2021 09:51:04 PM - Test_002_DDT_Login - INFO: **************** Test_002_DDT_Login ****************
+05/06/2021 09:51:04 PM - Test_002_DDT_Login - INFO: **************** Verifying Login DDT test ****************
+05/06/2021 09:51:12 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 09:51:18 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 09:51:24 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 09:51:29 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 09:51:29 PM - Test_002_DDT_Login - INFO: **** Login DDT Test passed.....^__^ **** 
+05/06/2021 09:51:29 PM - Test_002_DDT_Login - INFO: ******** End of Login DDT Test *********
+05/06/2021 09:51:29 PM - Test_002_DDT_Login - INFO: ******** Completed TC_LoginDDT_002 *********
+05/06/2021 09:51:32 PM - Test_SearchCustomerByEmail_004 - INFO: ************* SearchCustomerByEmail_004 **********
+05/06/2021 09:51:36 PM - Test_SearchCustomerByEmail_004 - INFO: ************* Login succesful **********
+05/06/2021 09:51:36 PM - Test_SearchCustomerByEmail_004 - INFO: ******* Starting Search Customer By Email **********
+05/06/2021 09:51:38 PM - Test_SearchCustomerByEmail_004 - INFO: ************* searching customer by emailID **********
+05/06/2021 09:51:44 PM - Test_SearchCustomerByEmail_004 - INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+05/06/2021 09:51:46 PM - Test_SearchCustomerByName_005 - INFO: ************* SearchCustomerByName_005 **********
+05/06/2021 09:51:50 PM - Test_SearchCustomerByName_005 - INFO: ************* Login succesful **********
+05/06/2021 09:51:50 PM - Test_SearchCustomerByName_005 - INFO: ******* Starting Search Customer By Name **********
+05/06/2021 09:51:53 PM - Test_SearchCustomerByName_005 - INFO: ************* searching customer by Name **********
+05/06/2021 09:51:58 PM - Test_SearchCustomerByName_005 - INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+05/06/2021 10:03:00 PM - Test_001_Login - INFO: **************** Test_001_Login ****************
+05/06/2021 10:03:00 PM - Test_001_Login - INFO: **************** Verifying Home Page Title ****************
+05/06/2021 10:03:00 PM - Test_001_Login - INFO: **** Opening URL ****
+05/06/2021 10:03:01 PM - Test_001_Login - INFO: **************** Home page title test is passed ****************
+05/06/2021 10:03:04 PM - Test_001_Login - INFO: **************** Verifying Login Test ****************
+05/06/2021 10:03:07 PM - Test_001_Login - INFO: **************** Login test is passed ****************
+05/06/2021 10:03:10 PM - Test_002_DDT_Login - INFO: **************** Test_002_DDT_Login ****************
+05/06/2021 10:03:10 PM - Test_002_DDT_Login - INFO: **************** Verifying Login DDT test ****************
+05/06/2021 10:03:19 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:03:25 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:03:31 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:03:36 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:03:36 PM - Test_002_DDT_Login - INFO: **** Login DDT Test passed.....^__^ **** 
+05/06/2021 10:03:36 PM - Test_002_DDT_Login - INFO: ******** End of Login DDT Test *********
+05/06/2021 10:03:36 PM - Test_002_DDT_Login - INFO: ******** Completed TC_LoginDDT_002 *********
+05/06/2021 10:03:39 PM - Test_SearchCustomerByEmail_004 - INFO: ************* SearchCustomerByEmail_004 **********
+05/06/2021 10:03:43 PM - Test_SearchCustomerByEmail_004 - INFO: ************* Login succesful **********
+05/06/2021 10:03:43 PM - Test_SearchCustomerByEmail_004 - INFO: ******* Starting Search Customer By Email **********
+05/06/2021 10:03:45 PM - Test_SearchCustomerByEmail_004 - INFO: ************* searching customer by emailID **********
+05/06/2021 10:03:50 PM - Test_SearchCustomerByEmail_004 - INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+05/06/2021 10:03:54 PM - Test_SearchCustomerByName_005 - INFO: ************* SearchCustomerByName_005 **********
+05/06/2021 10:03:57 PM - Test_SearchCustomerByName_005 - INFO: ************* Login succesful **********
+05/06/2021 10:03:57 PM - Test_SearchCustomerByName_005 - INFO: ******* Starting Search Customer By Name **********
+05/06/2021 10:04:01 PM - Test_SearchCustomerByName_005 - INFO: ************* searching customer by Name **********
+05/06/2021 10:04:06 PM - Test_SearchCustomerByName_005 - INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+05/06/2021 10:18:52 PM - Test_001_Login - INFO: **************** Test_001_Login ****************
+05/06/2021 10:18:52 PM - Test_001_Login - INFO: **************** Verifying Home Page Title ****************
+05/06/2021 10:18:52 PM - Test_001_Login - INFO: **** Opening URL ****
+05/06/2021 10:18:53 PM - Test_001_Login - INFO: **************** Home page title test is passed ****************
+05/06/2021 10:18:55 PM - Test_001_Login - INFO: **************** Verifying Login Test ****************
+05/06/2021 10:18:59 PM - Test_001_Login - INFO: **************** Login test is passed ****************
+05/06/2021 10:19:02 PM - Test_002_DDT_Login - INFO: **************** Test_002_DDT_Login ****************
+05/06/2021 10:19:02 PM - Test_002_DDT_Login - INFO: **************** Verifying Login DDT test ****************
+05/06/2021 10:19:10 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:19:16 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:19:21 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:19:27 PM - Test_002_DDT_Login - INFO: *** Passed ***
+05/06/2021 10:19:27 PM - Test_002_DDT_Login - INFO: **** Login DDT Test passed.....^__^ **** 
+05/06/2021 10:19:27 PM - Test_002_DDT_Login - INFO: ******** End of Login DDT Test *********
+05/06/2021 10:19:27 PM - Test_002_DDT_Login - INFO: ******** Completed TC_LoginDDT_002 *********
+05/06/2021 10:19:30 PM - Test_SearchCustomerByEmail_004 - INFO: ************* SearchCustomerByEmail_004 **********
+05/06/2021 10:19:34 PM - Test_SearchCustomerByEmail_004 - INFO: ************* Login succesful **********
+05/06/2021 10:19:34 PM - Test_SearchCustomerByEmail_004 - INFO: ******* Starting Search Customer By Email **********
+05/06/2021 10:19:36 PM - Test_SearchCustomerByEmail_004 - INFO: ************* searching customer by emailID **********
+05/06/2021 10:19:41 PM - Test_SearchCustomerByEmail_004 - INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+05/06/2021 10:19:44 PM - Test_SearchCustomerByName_005 - INFO: ************* SearchCustomerByName_005 **********
+05/06/2021 10:19:49 PM - Test_SearchCustomerByName_005 - INFO: ************* Login succesful **********
+05/06/2021 10:19:49 PM - Test_SearchCustomerByName_005 - INFO: ******* Starting Search Customer By Name **********
+05/06/2021 10:19:52 PM - Test_SearchCustomerByName_005 - INFO: ************* searching customer by Name **********
+05/06/2021 10:19:57 PM - Test_SearchCustomerByName_005 - INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
